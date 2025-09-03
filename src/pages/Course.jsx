@@ -3,9 +3,9 @@ import { useParams } from "react-router-dom";
 
 const videos = {
   react: [
-    { id: "Ke90Tje7VS0", title: "React Basics" },
-    { id: "w7ejDZ8SWv8", title: "React Crash Course" },
-    { id: "bMknfKXIFA8", title: "React Hooks Tutorial" },
+    { id: "QFaFIcGhPoM?si=af-0cYOTKaX2zOiX", title: "ReactJS Tutorial - 1 - Introduction" },
+    { id: "9hb_0TZ_MVI?si=agInhwQ3slGLCbm2", title: "ReactJS Tutorial - 2 - Hello World" },
+    { id: "9VIiLJL0H4Y?si=p26hnRWPWmBwizwx", title: "ReactJS Tutorial - 3 - Folder Structure" },
   ],
   python: [
     { id: "rfscVS0vtbw", title: "Python Full Course" },
