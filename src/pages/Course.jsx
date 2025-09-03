@@ -19,6 +19,14 @@ const videos = {
     { id: "x1z7HbE7C8U", title: "SolidWorks Assembly Tutorial" },
     { id: "abcd1234xyz", title: "SolidWorks Advanced Features" },
   ],
+  AutoCAD: [
+    { id: "x1z7HbE7C8U", title: "SolidWorks Assembly Tutorial" },
+    { id: "abcd1234xyz", title: "SolidWorks Advanced Features" },
+  ],
+  Revit: [
+    { id: "x1z7HbE7C8U", title: "SolidWorks Assembly Tutorial" },
+    { id: "abcd1234xyz", title: "SolidWorks Advanced Features" },
+  ],
 };
 
 const Course = () => {

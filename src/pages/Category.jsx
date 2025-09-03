@@ -12,7 +12,7 @@ const courses = {
     { id: "solidworks", title: "SolidWorks Tutorial" },
   ],
   Civil: [
-    { id: "civil", title: "Drafting" },
+    { id: "AutoCAD", title: "Drafting" },
     { id: "Revit", title: "Revit Architecture" },
   ],
 };
