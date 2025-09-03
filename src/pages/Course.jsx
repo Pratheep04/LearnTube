@@ -6,6 +6,8 @@ const videos = {
     { id: "QFaFIcGhPoM?si=af-0cYOTKaX2zOiX", title: "ReactJS Tutorial - 1 - Introduction" },
     { id: "9hb_0TZ_MVI?si=agInhwQ3slGLCbm2", title: "ReactJS Tutorial - 2 - Hello World" },
     { id: "9VIiLJL0H4Y?si=p26hnRWPWmBwizwx", title: "ReactJS Tutorial - 3 - Folder Structure" },
+    { id: "Y2hgEGPzTZY?si=_Wf9ZdAk2C1Ffa4G", title: "ReactJS Tutorial - 4 - Components" },
+    { id: "Cla1WwguArA?si=nbYuQtKv0yPoiRAl", title: "ReactJS Tutorial - 5 - Functional Components" },
   ],
   python: [
     { id: "rfscVS0vtbw", title: "Python Full Course" },
