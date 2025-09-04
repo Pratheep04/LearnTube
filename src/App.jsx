@@ -5,16 +5,20 @@ import Home from "./pages/Home";
 import Category from "./pages/Category";
 import Course from "./pages/Course";
 import "./App.css";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/category/:name" element={<Category />} />
-        <Route path="/course/:id" element={<Course />} />
-      </Routes>
+      <div className="app">
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/category/:name" element={<Category />} />
+          <Route path="/course/:id" element={<Course />} />
+        </Routes>
+        <Footer />
+      </div>
     </Router>
   );
 }
